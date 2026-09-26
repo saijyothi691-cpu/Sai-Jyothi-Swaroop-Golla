@@ -1,0 +1,11 @@
+caseNumber,individualId,description,dueDate
+CASE1001,IND001,Proof of income,2026-10-15
+CASE1001,IND002,Income verification - self employed,2026-10-15
+CASE1001,IND001,Proof this person lives with household,2026-10-20
+CASE1002,IND010,Burial resource verification,2026-11-01
+CASE1002,IND010,Resource statement,2026-11-05
+CASE1003,IND020,Life insurance policy verification,2026-10-25
+CASE1003,IND021,Household composition change,2026-10-25
+CASE1004,IND030,Proof of identity,2026-11-10
+CASE1004,IND030,Proof of residence,2026-11-10
+CASE1005,IND040,Some unrecognized verification text,2026-11-12
